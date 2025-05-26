@@ -1,66 +1,49 @@
-updated: 2025/05/26
+Privacy Policy
 
-**Privacy Policy**
+1. Data Collection
 
-**1. Data Collection:**
+1.1 Information We Collect
+We may collect the following types of information to improve the app’s performance and provide relevant ads:
 
-**1.1 Information We Collect:**
-We may collect the following categories of information from users in order to improve app performance and deliver relevant ads:
+* Location: Approximate and precise location
+* Device or Other IDs: Device ID, advertising ID
+* App Activity: App interactions and usage behavior
+* App Info and Performance: Diagnostics and crash reports
 
-* **Location:** Approximate and precise location may be collected to serve location-based ads or content.
-* **Device or Other IDs:** We collect identifiers such as your device ID or advertising ID.
-* **App Activity:** Information about your interactions with the app, including how you use features.
-* **App Info and Performance:** Diagnostic data such as crash logs, performance issues, and general usage statistics.
+1.2 How We Collect Data
+Data is collected through standard APIs and third-party services such as Google AdMob.
 
-**1.2 How We Collect Data:**
-Data is collected through standard APIs and services, including Google AdMob SDK, for advertising and analytics purposes.
+2. Data Usage
+   Collected data is used to:
 
----
+* Display personalized or contextual ads
+* Improve app functionality and user experience
+* Analyze performance and fix issues
+* Comply with legal and platform requirements
 
-**2. Data Usage:**
-The collected data is used solely for the following purposes:
+3. Data Sharing and Transfer
+   We may share collected data with trusted third parties such as Google AdMob for advertising and analytics. We do not sell user data.
 
-* To display personalized and non-personalized advertisements.
-* To improve app performance, detect and fix bugs, and enhance user experience.
-* To ensure compliance with app store policies and legal requirements.
+4. Security Measures
+   We use reasonable technical and organizational measures to protect collected data from unauthorized access or misuse.
 
----
+5. Data Retention
+   We retain data only for as long as necessary to fulfill the purposes mentioned above or to comply with legal obligations. Users may request deletion through device settings or by contacting us.
 
-**3. Data Sharing and Transfer:**
-We may share certain collected data with trusted third-party services such as Google AdMob, which may process the data to provide personalized advertising and performance analytics. We do not sell or share data for any other commercial purposes.
+6. Advertising
+   This app uses Google AdMob for showing ads. AdMob may collect data such as device ID, advertising ID, and location to serve personalized ads. Users can manage their ad preferences in their Google account settings.
 
----
+7. Children’s Privacy
+   The app is not directed to children under 13. We do not knowingly collect personal information from children. Parents are encouraged to supervise their children’s use of mobile apps.
 
-**4. Security Measures:**
-We implement reasonable administrative, technical, and physical safeguards to protect the data collected from unauthorized access, disclosure, or misuse.
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated effective date.
 
----
+Contact Us
+If you have any questions or concerns, please contact us at: sorenavpninfo@gmail.com
 
-**5. Data Retention:**
-We retain data only as long as necessary to fulfill the purposes outlined in this policy or as required by law. You may request deletion of certain data via your device settings or by contacting us.
+Additional Information for Android Users
+Sorena VPN complies with Google Play’s Developer Program Policies regarding user data privacy and security.
 
----
 
-**6. Advertising:**
-Our app uses **Google AdMob** to display advertisements. AdMob may collect and use data such as your **device ID**, **advertising ID**, and **location** to serve personalized or contextual ads. You can opt out of personalized ads in your Google settings.
-
----
-
-**7. Children’s Privacy:**
-Our app is not intended for use by children under the age of 13. We do not knowingly collect personal information from children. Parents and guardians are encouraged to monitor and guide their children's app usage.
-
----
-
-**Changes to This Privacy Policy:**
-We may update this Privacy Policy from time to time. Any material changes will be posted on this page with an updated effective date.
-
----
-
-**Contact Us:**
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-**[sorenavpninfo@gmail.com](mailto:sorenavpninfo@gmail.com)**
-
----
-
-**Additional Information for Android Users:**
-Sorena VPN complies with **Google Play's Developer Program Policies** regarding user data privacy and security. We also follow the guidelines outlined in the **Google Play Data safety section**.
+Updated Date: 2025/05/26
